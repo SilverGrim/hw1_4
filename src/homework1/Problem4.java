@@ -11,7 +11,7 @@ public class Problem4 {
 		String name = input.next();
 		System.out.print("Enter Age: ");
 		int age = input.nextInt();
-		System.out.printf("Hello, my name is %s and I am %s years old", name, age);
+		System.out.printf("Hello, my name is %s and I am %d years old", name, age);
 		input.close();
 	}
 
