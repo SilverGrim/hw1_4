@@ -14,5 +14,4 @@ public class Problem4 {
 		System.out.printf("Hello, my name is %s and I am %d years old", name, age);
 		input.close();
 	}
-
 }
